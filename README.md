@@ -1,1 +1,5 @@
-# Web_Science_Lab_2---Web_Crawler_and_Information_Retrieval
+# HCMUS. Web science: Lab 2 - Web crawler (continue) and Information retrieval
+
+| MSSV | Họ tên |
+| - | - |
+| 19120689 | Lại Khánh Toàn |
